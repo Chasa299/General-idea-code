@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+
+    printf("\n\n\n\n\n\n\tComputer Programming Group Project");
+    printf("\n\t\t    Members:");
+    printf("\n\t\t Gracie Tollett");
+    printf("\n\t\t   Erik Ludlow");
+    printf("\n\t\t Kalyan Neupane");
+    printf("\n\t\t Chase Alberson");
+    printf("\n\t\tA L M Salahuddin");
+
+
+    printf("\n\n\n\t\t\t\t\t\t\t\t\t\t\t     VipSum\n\t\t\t\t\t\t\t\t\t\t\t    by GEKCA \n\t\t\t\t\t\t\t\t");
+    printf("|-----------------------------------------------------------------|\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\tScore:0\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\tHigh Score:0\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                             *****                               |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|                                                                 |\n\t\t\t\t\t\t\t\t");
+    printf("|-----------------------------------------------------------------|\n\t\t\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
+
+}
